@@ -30,3 +30,4 @@ C:\Users\Robert\source\repos\WeatherApi\WeatherApi\obj\Debug\net8.0\refint\Weath
 C:\Users\Robert\source\repos\WeatherApi\WeatherApi\obj\Debug\net8.0\WeatherApi.pdb
 C:\Users\Robert\source\repos\WeatherApi\WeatherApi\obj\Debug\net8.0\WeatherApi.genruntimeconfig.cache
 C:\Users\Robert\source\repos\WeatherApi\WeatherApi\obj\Debug\net8.0\ref\WeatherApi.dll
+C:\Users\Robert\source\repos\WeatherApi\WeatherApi\obj\Debug\net8.0\WeatherApi.sourcelink.json
